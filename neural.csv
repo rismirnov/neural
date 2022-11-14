@@ -1,4 +1,4 @@
-%%writefile neural.csv
+%%writefile simple.csv
 label;url
 каска; https://github.com/rismirnov/neural/blob/master/helmet_1?raw=true
 каска; https://github.com/rismirnov/neural/blob/master/helmet_2?raw=true
